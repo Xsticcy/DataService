@@ -1,3 +1,6 @@
+# Download the module
+[Click here](https://github.com/Xsticcy/DataService/raw/main/DataService.rbxm)
+
 # DataService API
 
 ## Error codes:
